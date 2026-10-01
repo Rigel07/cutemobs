@@ -1,0 +1,8 @@
+{
+  "entity.cutemobs.mochi": "Mochi",
+  "entity.cutemobs.nube": "Nube",
+  "entity.cutemobs.brote": "Brote",
+  "item.cutemobs.mochi_spawn_egg": "Huevo generador de Mochi",
+  "item.cutemobs.nube_spawn_egg": "Huevo generador de Nube",
+  "item.cutemobs.brote_spawn_egg": "Huevo generador de Brote"
+}

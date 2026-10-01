@@ -1,0 +1,5 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": ["minecraft:meadow", "minecraft:cherry_grove", "minecraft:plains"],
+  "spawners": { "type": "cutemobs:mochi", "weight": 12, "minCount": 2, "maxCount": 4 }
+}

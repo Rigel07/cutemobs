@@ -1,0 +1,13 @@
+COMO OBTENER EL .JAR (necesitas Java 17 y conexion a internet)
+
+Opcion A - con Gradle instalado (8.1 a 8.8):
+    gradle build
+
+Opcion B - con el MDK de Forge 1.20.1:
+    1. Descarga el MDK 1.20.1 desde https://files.minecraftforge.net
+    2. Copia de este proyecto: build.gradle, settings.gradle, gradle.properties y la carpeta src/
+       encima de la carpeta del MDK (sustituyendo lo que haya; borra el ExampleMod).
+    3. Ejecuta:  ./gradlew build      (en Windows: gradlew.bat build)
+
+El .jar queda en build/libs/cutemobs-1.20.1-1.0.0.jar
+Copialo a la carpeta mods de Minecraft con Forge 1.20.1 (47.x).
